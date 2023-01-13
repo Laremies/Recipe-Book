@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    padding: 2em;
+}
+
+h1 {
+    color: white;
+    font-size: 100;
+    text-align:center;
+    font-style: italic;
+    }
+
+dl {
+    font-size: 20;
+    font-weight: 600;
+    color: white;
+}
+
+p {
+    font-size: 20;
+    font-weight: 600;
+    font-style: italic;
+    text-align:center;
+    color: white;
+}
+
+h2 {
+    font-size: 20;
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+}
+
+a {
+    font-size: 17;
+    font-weight: 600;
+    color: white;
+}
+
+h3 {
+    font-size: 20;
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+}
+
